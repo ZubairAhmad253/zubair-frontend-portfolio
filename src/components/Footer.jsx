@@ -61,21 +61,25 @@ const Footer = () => {
 
         {/* Social Icons */}
         <div className="flex gap-4">
-          <a href="https://wa.me/923001234567" target="_blank" rel="noreferrer">
+          <a href="https://wa.me/923304543178" target="_blank" rel="noreferrer">
             <img src="/icons/whatsapp.png" alt="WhatsApp" className="h-5 w-5" />
           </a>
-          <a href="mailto:zubair@example.com" target="_blank" rel="noreferrer">
+          <a
+            href="mailto:se120182056@gmail.com"
+            target="_blank"
+            rel="noreferrer"
+          >
             <img src="/icons/email.png" alt="Email" className="h-5 w-5" />
           </a>
           <a
-            href="https://linkedin.com/in/zubair-ahmad"
+            href="https://www.linkedin.com/in/zubair-ahmad-120294201/"
             target="_blank"
             rel="noreferrer"
           >
             <img src="/icons/linkedin.png" alt="LinkedIn" className="h-5 w-5" />
           </a>
           <a
-            href="https://github.com/zubairdev"
+            href="https://github.com/ZubairAhmad253"
             target="_blank"
             rel="noreferrer"
           >
